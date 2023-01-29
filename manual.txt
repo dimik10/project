@@ -1,0 +1,3 @@
+git config --global user.name "Dmitriy Nikolaev"
+git config --global user.email dimik10@mail.ru
+git config --global alias.history log --graph
